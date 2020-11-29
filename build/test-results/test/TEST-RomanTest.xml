@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RomanTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-11-29T20:22:00" hostname="LAPTOP-KTMO2N62" time="0.109">
+  <properties/>
+  <testcase name="convertCMto900$Roman_Converter()" classname="RomanTest" time="0.073"/>
+  <testcase name="convertIXto9$Roman_Converter()" classname="RomanTest" time="0.001"/>
+  <testcase name="convertIto1$Roman_Converter()" classname="RomanTest" time="0.001"/>
+  <testcase name="convertVto5$Roman_Converter()" classname="RomanTest" time="0.003"/>
+  <testcase name="convertLto50$Roman_Converter()" classname="RomanTest" time="0.002"/>
+  <testcase name="convertXLIXto49$Roman_Converter()" classname="RomanTest" time="0.002"/>
+  <testcase name="convertCDto400$Roman_Converter()" classname="RomanTest" time="0.001"/>
+  <testcase name="convertXXto20$Roman_Converter()" classname="RomanTest" time="0.001"/>
+  <testcase name="convertDto500$Roman_Converter()" classname="RomanTest" time="0.001"/>
+  <testcase name="convertXto10$Roman_Converter()" classname="RomanTest" time="0.0"/>
+  <testcase name="convertIVto4$Roman_Converter()" classname="RomanTest" time="0.002"/>
+  <testcase name="convertXCto90$Roman_Converter()" classname="RomanTest" time="0.001"/>
+  <testcase name="convertMto1000$Roman_Converter()" classname="RomanTest" time="0.0"/>
+  <testcase name="convertCto100$Roman_Converter()" classname="RomanTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
